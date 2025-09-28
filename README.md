@@ -1,2 +1,1 @@
-# SPELL
-Repo for paper "SPELL: Self-Play Reinforcement Learning for evolving Long-Context Language Models".
+The code repo is under review and will be coming soon!

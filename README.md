@@ -18,7 +18,7 @@ SPELL: Self-Play Reinforcement Learning for Evolving Long-Context Language Model
 
 </div>
 
-This repository provides the implementation of **SPELL: Self-Play Reinforcement Learning for Evolving Long-Context Language Models**. SPELL is a novel methodology that leverages self-play reinforcement learning to enhance the capabilities of large language models, specifically targeting improvements in long-context understanding and reasoning tasks. The code implementation will be released soon!
+This repository provides the implementation of **SPELL: Self-Play Reinforcement Learning for Evolving Long-Context Language Models**. SPELL is a novel methodology that leverages self-play reinforcement learning to enhance the capabilities of large language models, specifically targeting improvements in long-context understanding and reasoning tasks. The code implementation will be released soon after code review.
 
 # 📖 Overview
 

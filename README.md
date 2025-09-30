@@ -297,18 +297,10 @@ done
 
 # Citation
 ```
-@article{wan2025qwenlong,
-  title={QwenLong-L1: Towards Long-Context Large Reasoning Models with Reinforcement Learning},
-  author={Wan, Fanqi and Shen, Weizhou and Liao, Shengyi and Shi, Yingcheng and Li, Chenliang and Yang, Ziyi and Zhang, Ji and Huang, Fei and Zhou, Jingren and Yan, Ming},
-  journal={arXiv preprint arXiv:2505.17667},
-  year={2025}
-}
-
-
 @article{yang2025spell,
     title={SPELL: Self-Play Reinforcement Learning for evolving Long-Context Language Models},
     author={Ziyi Yang, Weizhou Shen, Ruijun Chen, Chenliang Li, Fanqi Wan, Ming Yan, Xiaojun Quan, Fei Huang},
-    journal={arXiv preprint arXiv:2509.},
+    journal={arXiv preprint arXiv:2509.23863},
     year={2025}
 }
 ```

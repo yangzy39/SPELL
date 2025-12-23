@@ -7,12 +7,12 @@ SPELL: Self-Play Reinforcement Learning for Evolving Long-Context Language Model
 -----------------------------
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License">
-<img src="https://img.shields.io/github/stars/Tongyi-Zhiwen/SPELL?color=yellow" alt="Stars">
-<img src="https://img.shields.io/github/issues/Tongyi-Zhiwen/SPELL?color=red" alt="Issues">
+<img src="https://img.shields.io/github/stars/Tongyi-Zhiwen/Qwen-Doc?color=yellow" alt="Stars">
+<img src="https://img.shields.io/github/issues/Tongyi-Zhiwen/Qwen-Doc?color=red" alt="Issues">
 
 <h4> |<a href="https://arxiv.org/pdf/2509.23863"> 📑 SPELL Paper</a> |
 <a href="https://huggingface.co/Tongyi-Zhiwen"> 🤗 HuggingFace Repo </a> |
-<a href="https://github.com/Tongyi-Zhiwen/SPELL"> 🐱 GitHub Repo </a> |
+<a href="https://github.com/Tongyi-Zhiwen/Qwen-Doc"> 🐱 GitHub Repo </a> |
 </h4>
 
 
